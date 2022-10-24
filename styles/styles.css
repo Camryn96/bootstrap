@@ -1,0 +1,24 @@
+.col:last-child{
+	background-color:blueviolet;
+	border-radius: 100px;
+}
+.col:nth-child(2){
+	background-color: orange;
+	border-radius: 100px;
+}
+.col:nth-child(3){
+	background-color: red;
+	border-radius: 100px;
+}
+.col:nth-child(1){
+	background-color: pink;
+	border-radius: 100px;
+}
+.card{
+	width: 18rem;
+.card img{
+	height: 20rem;
+	object-fit: cover;
+	object-position: left;
+
+}
